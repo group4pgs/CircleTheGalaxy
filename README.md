@@ -194,7 +194,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](outputs/output_13_0.png)
     
 
 
@@ -215,7 +215,7 @@ plt.show()
 
 
     
-![png](output_14_1.png)
+![png](outputs/output_14_1.png)
     
 
 
@@ -229,7 +229,7 @@ plt.imsave('processedImage.png',proc_image)
 
 
     
-![png](output_15_0.png)
+![png](outputs/output_15_0.png)
     
 
 
@@ -252,7 +252,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](outputs/output_17_0.png)
     
 
 
