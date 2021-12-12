@@ -8,7 +8,7 @@ from enhance_image import *
 import cv2
 
 
-filename = 'NGA_NGC3351-fd-int.fits'
+filename = '/home/raghuttam/experimental/imageProStar/NGA_NGC3351-fd-int.fits'
 NGC3351_fd = fits.open(filename)
 image = NGC3351_fd[0].data
 print("Full-frame: ",image.shape)
